@@ -13,7 +13,7 @@ import logging
 from datetime import datetime
 
 # Location to Config File
-config = 'copy.json'
+config = 'config.json'
 
 # Clean debug.log before next run.
 def deleteCurrentLog():
