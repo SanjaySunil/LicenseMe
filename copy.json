@@ -1,4 +1,14 @@
 {
     "author": "Sanjay Sunil",
-    "license": "GPL-3.0"
+    "license": "GPL-3.0",
+    "directory": ".",
+    "options": {
+        "includeAuthorName": true,
+        "includeLicense": true,
+        "includeFileName": true
+    },
+    "settings": {
+        "createSessionLog": true,
+        "showFilePath": false
+    }
 }
