@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <a href="https://github.com/SanjaySunil/README-Template">
+  <a href="https://github.com/SanjaySunil/LicenseMe">
     <img src="./images/logo.png" alt="Logo" width="100" height="100">
   </a>
 </p>
@@ -69,7 +69,7 @@ git clone https://github.com/D3VSJ/LicenseMe
 
 ## Roadmap
 
-See the [open issues](https://github.com/SanjaySunil/README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/SanjaySunil/LicenseMe/issues) for a list of proposed features (and known issues).
 <br/>
 
 <!-- CONTRIBUTING -->
