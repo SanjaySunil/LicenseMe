@@ -1,6 +1,6 @@
 {
     "author": "Sanjay Sunil",
-    "license": "GPL-3.0",
+    "license": "MIT",
     "directory": ".",
     "options": {
         "includeAuthorName": true,
