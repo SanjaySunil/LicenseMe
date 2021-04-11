@@ -46,7 +46,6 @@
 ### **Step 1:** Prerequisites
 
 Python 3.x
-
 <br/>
 
 <!-- Installation -->
