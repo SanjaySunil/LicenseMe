@@ -1,61 +1,59 @@
-<!-- PROJECT LOGO -->
-<br />
+<!-- Logo -->
 <p align="center">
-  <a href="https://github.com/sanjaysunil/LicenseMe">
-    <img src="images/logo.png" alt="Logo" width="128" height="128">
+  <a href="https://github.com/SanjaySunil/README-Template">
+    <img src="./images/logo.png" alt="Logo" width="100" height="100">
   </a>
-
-  <h1 align="center">LicenseMe</h1>
-
-  <p align="center">
-    Your handy tool for licensing and protecting your code.
-  </p>
 </p>
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
+<!-- Title -->
+<h1 align="center">LicenseMe</h1>
+  <p align="center">
+    The best README template to help you kickstart your GitHub Repository.
+    <br />
+    <a href="">Report Bug</a>
+    ·
+    <a href="">Request Feature</a>
+  </p>
+</h1>
+<br/><br/>
 
-* [About the Project](#about-the-project)
-* [Features](#features)
-* [Getting Started](#getting-started)
-* [Prerequisites](#prerequisites)
-* [Installation](#installation)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Built With](#built-with)
-* [Contact](#contact)
+<!-- Information -->
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+## What's README Template?
 
-**LicenseMe** is a fast copyright prepender tool that allows you to add custom copyright notices/licenses or information at the top of each file of your code. 
+[**LicenseMe**](https://github.com/SanjaySunil/LicenseMe) is a fast copyright prepender tool that allows you to add custom copyright notices/licenses or information at the top of each file of your code. 
 
 **At the moment, the current presets for this tool are for JS.** More updates for customisation will be released soon.
+<br/>
 
-## Features
+<!-- Features -->
 
-**Current Features:**
+## ✨ Features
 
-* Supported only for JS
-* Checks if copyright already exists
-* Scans and prepends to all files from root directory
+- ⚡ **Fast Prepending:** LicenseMe adds licenses at the top of your code within seconds.
+- ⚙ **Customisable:** LicenseMe's settings can be altered in the `config.json` file.
+<br/>
 
-**Coming Soon:**
-
-* Better customisation
+<!-- Getting Started -->
 
 ## Getting started
 
-> Simply open copy.json and add your information. Then, open copyright.py and watch all your files being licensed!
+> Simply open and configure the config.json. Then, open copyright.py and let the magic begin!
+<br/>
 
-### Prerequisites
+<!-- Prerequisites -->
+
+### **Step 1:** Prerequisites
 
 Python 3.x
 
-### Installation
+<br/>
 
-1. Clone the repo
+<!-- Installation -->
+
+### **Step 2:** Setup / Installation
+
+1. Clone LicenseMe
 ```sh
 git clone https://github.com/D3VSJ/LicenseMe
 ```
@@ -65,52 +63,30 @@ git clone https://github.com/D3VSJ/LicenseMe
 
 4. Check code to make sure all files have been licensed.
 
-<!-- USAGE EXAMPLES 
-## Usage
-
-Usage info here 
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
---> 
+<br/>
 
 <!-- ROADMAP -->
+
 ## Roadmap
 
-See the [open issues](https://github.com/sanjaysunil/LicenseMe/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/SanjaySunil/README-Template/issues) for a list of proposed features (and known issues).
+<br/>
 
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b feature/Feature`)
+3. Commit your Changes (`git commit -m 'Added a new Feature'`)
+4. Push to the Branch (`git push origin feature/Feature`)
 5. Open a Pull Request
+<br/>
 
-<!-- LICENSE -->
 ## License
 
+Copyright © 2020 Sanjay Sunil (sanjaysunil@protonmail.com)
+
 Distributed under the MIT License. See `LICENSE` for more information.
-
-### Built With
-
-* [Python](https://python.org)
----
-
-<div align="center">
-
-## Contact 
-
-Website : [sanjaysunil.me](https://sanjaysunil.me) &nbsp;&middot;&nbsp;
-Email : [sanjaysunil@protonmail.com](mailto:sanjaysunil@protonmail.com) &nbsp;&middot;&nbsp;
-Discord : [D3VSJ#3158](https://discordapp.com/users/732336924559278181)
-
-</div>
-
-
-
-
-
