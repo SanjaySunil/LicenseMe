@@ -57,9 +57,9 @@ Python 3.x
 ```sh
 git clone https://github.com/D3VSJ/LicenseMe
 ```
-2. Open `copy.json` and add your information.
+2. Open and configure `config.json` with your options.
 
-3. Open `copyright.py`.
+3. Run `copyright.py`.
 
 4. Check code to make sure all files have been licensed.
 
