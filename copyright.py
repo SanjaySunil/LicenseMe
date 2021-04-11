@@ -2,7 +2,7 @@
 Author: Sanjay Sunil (D3VSJ)
 File: copyright.py
 Description: Your handy tool for licensing and protecting your code.
-License: GPL-3.0
+License: MIT
 """
 
 # Imports
