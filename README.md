@@ -43,14 +43,14 @@
 
 <!-- Prerequisites -->
 
-### **Step 1:** Prerequisites
+### Prerequisites
 
 Python 3.x
 <br/>
 
 <!-- Installation -->
 
-### **Step 2:** Setup / Installation
+### Installation
 
 1. Clone LicenseMe
 ```sh
@@ -85,6 +85,6 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Copyright © 2020 Sanjay Sunil (sanjaysunil@protonmail.com)
+Copyright © 2021 Sanjay Sunil (sanjaysunil@protonmail.com)
 
 Distributed under the MIT License. See `LICENSE` for more information.
