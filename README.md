@@ -61,7 +61,6 @@ git clone https://github.com/D3VSJ/LicenseMe
 3. Run `copyright.py`.
 
 4. Check code to make sure all files have been licensed.
-
 <br/>
 
 <!-- ROADMAP -->
