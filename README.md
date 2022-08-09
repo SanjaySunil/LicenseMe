@@ -8,7 +8,7 @@
 <!-- Title -->
 <h1 align="center">LicenseMe</h1>
   <p align="center">
-    The best README template to help you kickstart your GitHub Repository.
+    Your handy tool for licensing and protecting your code.
     <br />
     <a href="">Report Bug</a>
     ·
